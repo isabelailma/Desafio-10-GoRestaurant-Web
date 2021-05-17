@@ -18,8 +18,7 @@ describe('Dashboard', () => {
           'Macarrão ao molho branco, fughi e cheiro verde das montanhas.',
         price: '19.90',
         available: true,
-        image:
-          'https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png',
+        image: 'http://rocketseat.com.br',
       },
       {
         id: 2,
@@ -29,7 +28,7 @@ describe('Dashboard', () => {
         price: '19.90',
         available: true,
         image:
-          'https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png',
+          'https://cdn.discordapp.com/attachments/678946221733445652/713371631312961596/Foto-1.png',
       },
       {
         id: 3,
@@ -39,7 +38,7 @@ describe('Dashboard', () => {
         price: '19.90',
         available: true,
         image:
-          'https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png',
+          'https://cdn.discordapp.com/attachments/678946221733445652/713371633909497986/Foto-2.png',
       },
     ]);
 
